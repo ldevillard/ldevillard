@@ -1,4 +1,5 @@
-### Hi there 👋
+### Logan DEVILLARD
+[![42intra](https://shields.io/badge/gapoulai-black?logoColor=white&logo=42&style=for-the-badge)](https://profile.intra.42.fr/users/ldevilla)
 
 #### Working on :
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
