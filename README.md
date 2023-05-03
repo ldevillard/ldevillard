@@ -1,6 +1,5 @@
 ### Logan DEVILLARD
 [![42intra](https://shields.io/badge/ldevilla-black?logoColor=white&logo=42&style=for-the-badge)](https://profile.intra.42.fr/users/ldevilla)
-### 8SEC : https://8sec.games
 ### Games : https://linktr.ee/logandev
 #
 #### Working on :
