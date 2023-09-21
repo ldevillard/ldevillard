@@ -8,4 +8,4 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=gapoulai&theme=dark&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats)
+![github stats](https://github-readme-stats.vercel.app/api?username=ldevilla&theme=dark&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats)
