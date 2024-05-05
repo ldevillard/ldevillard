@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Logan Devillard</h1>
-<h3>An Engine Programmer from France</h3>
+<h3>An Engine/Graphic Programmer from France</h3>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ldevillard)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/logan-devillard-004971207/)
