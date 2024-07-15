@@ -13,9 +13,9 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-- 👨🏽‍💻 I’m currently working on ![Devil Engine](https://github.com/ldevillard/Engine);
+- 👨🏽‍💻 I’m currently working on [Devil Engine](https://github.com/ldevillard/Engine)
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Studies: I studied at ![42 Lyon](https://42lyon.fr/);
+- ⚡️ Studies: I studied at [42 Lyon](https://42lyon.fr)
 - 📫 How to reach me: logandvllrd@gmail.com;
 
 **Languages and Tools:** 
